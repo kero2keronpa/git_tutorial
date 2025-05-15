@@ -1,0 +1,29 @@
+[33mcommit f2f93a093d61443d1138a30c6408761527f01360[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: kero2keronpa <kero2keronpa@gmail.com>
+Date:   Wed May 14 23:48:53 2025 +0900
+
+    git commit --amendを追記
+
+[33mcommit 30677dc1c958ead7fc28fb9e7cfb0512128553e7[m
+Author: kero2keronpa <kero2keronpa@gmail.com>
+Date:   Wed May 14 22:55:12 2025 +0900
+
+    .gitignoreファイルを追加
+
+[33mcommit e3dbf207a3528704bea3c74a988420bb8246eb35[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: kero2keronpa <kero2keronpa@gmail.com>
+Date:   Mon May 12 23:15:43 2025 +0900
+
+    git diffを追記
+
+[33mcommit 9b8c97dcca0c7d0067aee18ffcea4be79d7888a5[m
+Author: kero2keronpa <kero2keronpa@gmail.com>
+Date:   Mon May 12 23:07:14 2025 +0900
+
+    git statusコマンドを追記
+
+[33mcommit 6b1ee28b27e67b39086462555ab51c598a1d9844[m
+Author: kero2keronpa <kero2keronpa@gmail.com>
+Date:   Mon May 12 22:56:22 2025 +0900
+
+    Initial commit
